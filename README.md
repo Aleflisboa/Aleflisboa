@@ -14,4 +14,5 @@ Olá, sou Alef Lisboa e atualmente sou estudante do IFBA. Procuro desenvolver e 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Aleflisboa&show_icons=true" />
 </picture>
+<img height= "180em" scr = https://github-readme-stats.vercel.app/api/top-langs/?username=Aleflisboa/>
 </div>
