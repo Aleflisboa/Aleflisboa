@@ -3,6 +3,7 @@ Olá, sou Alef Lisboa e atualmente sou estudante do IFBA. Procuro desenvolver e 
 <div>
   <a href = "https://beacons.ai/Aleflisboa">
 <img height= "180em" scr = "https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
+<img height= "180em" scr = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
