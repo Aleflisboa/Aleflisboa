@@ -1,9 +1,7 @@
 Olá, sou Alef Lisboa e atualmente sou estudante do IFBA. Procuro desenvolver e aprimorar minhas habilidades. Tenho interesse na área de desenvolvimento de software, mas possuo conhecimento básico em HTML e JavaScript.
 <div>
   <a href="https://beacons.ai/Aleflisboa" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aleflisboa&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Alef Lisboa"/>
   </a>
-
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Aleflisboa&show_icons=true&theme=dark"
