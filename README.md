@@ -2,7 +2,7 @@ Olá, sou Alef Lisboa e atualmente sou estudante do IFBA. Procuro desenvolver e 
 
 <div>
   <a href = "https://beacons.ai/Aleflisboa">
-<img height= "180em" scr = "https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Aleflisboa/github-readme-stats"/>
+<img height= "180em" scr = "https://github-readme-stats.vercel.app/api?username=Aleflisboa)](https://github.com/Aleflisboa/github-readme-stats"/>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
