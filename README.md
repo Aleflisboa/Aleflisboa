@@ -14,7 +14,7 @@
 <!-- SEÇÃO: GRÁFICOS E ESTATÍSTICAS -->
 <div align="center">
   <!-- Gráfico de Contribuições 3D (Activity Graph) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham1603&theme=react-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="" width="100%" />
   
   <!-- Estatísticas de Contribuição -->
   <img src="https://github-readme-stats.vercel.app/api?username=Pratham1603&show_icons=true&theme=dark&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=ffffff&hide_border=true" width="48%" />
