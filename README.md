@@ -54,7 +54,6 @@
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /><br><sub>Postgres</sub></td>
     </tr>
     <tr>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /><br><sub>Figma</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" /><br><sub>NumPy</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" /><br><sub>Pandas</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" /><br><sub>Matplotlib</sub></td>
@@ -74,11 +73,6 @@
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><br><sub>Git</sub></td>
     </tr>
     <tr>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" /><br><sub>AWS</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" /><br><sub>Azure</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" /><br><sub>PowerBI</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" /><br><sub>Postman</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" /><br><sub>Selenium</sub></td>
     </tr>
   </table>
 </div>
