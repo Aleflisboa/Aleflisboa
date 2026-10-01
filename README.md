@@ -3,16 +3,10 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="16%"><b>LinkedIn</b></td>
-    <td align="center" width="16%"><b>X (Twitter)</b></td>
-    <td align="center" width="16%"><b>Gmail</b></td>
-    <td align="center" width="16%"><b>Website</b></td>
-    <td align="center" width="16%"><b>Medium</b></td>
-    <td align="center" width="16%"><b>Kaggle</b></td>
+>
   </tr>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/alef-lisboa-bba7b636b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://x.com/PROSEED_AI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" /></a></td>
-    <td align="center"><a href="mailto:seu-email@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" /></a></td>
 </table>
 
 <br>
@@ -50,23 +44,7 @@
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /><br><sub>Postgres</sub></td>
     </tr>
     <tr>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" /><br><sub>NumPy</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" /><br><sub>Pandas</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" /><br><sub>Matplotlib</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40" /><br><sub>Seaborn</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" /><br><sub>Sklearn</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" /><br><sub>TensorFlow</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" /><br><sub>PyTorch</sub></td>
-    </tr>
-    <tr>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40" height="40" /><br><sub>HuggingFace</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" /><br><sub>FastAPI</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" /><br><sub>Flask</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" /><br><sub>Streamlit</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" /><br><sub>OpenCV</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dvc/dvc-original.svg" width="40" height="40" /><br><sub>DVC</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" width="40" height="40" /><br><sub>Airflow</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><br><sub>Git</sub></td>
+      /td>
     </tr>
     <tr>
     </tr>
