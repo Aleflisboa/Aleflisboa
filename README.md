@@ -44,7 +44,6 @@
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /><br><sub>Postgres</sub></td>
     </tr>
     <tr>
-      /td>
     </tr>
     <tr>
     </tr>
