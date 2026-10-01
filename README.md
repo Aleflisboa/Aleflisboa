@@ -14,7 +14,6 @@
 <!-- SEÇÃO: GRÁFICOS E ESTATÍSTICAS -->
 <div align="center">
   <!-- Gráfico de Contribuições 3D (Activity Graph) -->
-  <img src="" width="100%" />
   
   <!-- Estatísticas de Contribuição -->
   <img src="https://github-readme-stats.vercel.app/api?username=Pratham1603&show_icons=true&theme=dark&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=ffffff&hide_border=true" width="48%" />
@@ -36,7 +35,6 @@
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><br><sub>HTML</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><br><sub>CSS</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><br><sub>JS</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><br><sub>React</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><br><sub>C++</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><br><sub>Python</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /><br><sub>MySQL</sub></td>
