@@ -27,7 +27,7 @@
 
 <!-- SEÇÃO: SKILL SET -->
 <h3>SKILL SET</h3>
-<img src="https://raw.githubusercontent.com/Pratham1603/Pratham1603/main/line.gif" width="100%" height="5px" alt="divider" />
+   <img src="https://raw.githubusercontent.com/Pratham1603/Pratham1603/main/line.gif" width="100%" height="5px" alt="divider" />
 <br><br>
 
 <!-- Tabela de Ícones (Skills) -->
@@ -41,7 +41,6 @@
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><br><sub>C++</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><br><sub>Python</sub></td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /><br><sub>MySQL</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /><br><sub>Postgres</sub></td>
     </tr>
     <tr>
     </tr>
