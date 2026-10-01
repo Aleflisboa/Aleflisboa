@@ -10,13 +10,9 @@
     <td align="center" width="16%"><b>Kaggle</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://linkedin.com/in/pratham-harer-143112315"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/alef-lisboa-bba7b636b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a></td>
     <td align="center"><a href="https://x.com/PROSEED_AI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" /></a></td>
     <td align="center"><a href="mailto:seu-email@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://pratham-harer.vercel.app/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://medium.com/@prathamharer1603"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://www.kaggle.com/prathamharer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" /></a></td>
-  </tr>
 </table>
 
 <br>
