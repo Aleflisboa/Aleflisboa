@@ -27,7 +27,6 @@
 
 <!-- SEÇÃO: SKILL SET -->
 <h3>SKILL SET</h3>
-   <img src="https://raw.githubusercontent.com/Pratham1603/Pratham1603/main/line.gif" width="100%" height="5px" alt="divider" />
 <br><br>
 
 <!-- Tabela de Ícones (Skills) -->
