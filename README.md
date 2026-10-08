@@ -6,7 +6,7 @@
 
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/alef-lisboa-bba7b636b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a></td>
+    <td align="left"><a href="https://www.linkedin.com/in/alef-lisboa-bba7b636b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a></td>
 </table>
 
 <br>
