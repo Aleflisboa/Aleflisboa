@@ -2,7 +2,7 @@
 <!-- SEÇÃO: LINKS (TABELA) -->
 <table align="center" width="100%">
   <tr>
-    <td align="left" width="16%"><b>LinkedIn</b></td>
+    <td align="left" width="1%"><b>LinkedIn</b></td>
 
   </tr>
   <tr>
